@@ -1,3 +1,3 @@
 # HTML-Basics
-My Jorurney of HTML, From the very beginning
-\nLearning from Scratch
+My Jorurney of HTML, From the very beginning.
+Learning from Scratch
